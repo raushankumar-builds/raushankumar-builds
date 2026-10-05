@@ -1,16 +1,20 @@
-## Hi there 👋
+# Raushan Kumar
 
-<!--
-**raushankumar-builds/raushankumar-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer & Product Builder focused on building thoughtful, high-quality digital products.
 
-Here are some ideas to get you started:
+I design and build modern web experiences, e-commerce platforms, SaaS products, and AI-powered business automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Work
+
+- ABC Clinic — Healthcare web experience
+- ZYLO — Modern e-commerce experience
+- Handoff — SaaS product
+- Relay — AI & business automation
+
+### Currently
+
+Building products with a focus on clean engineering, strong product thinking, and useful user experiences.
+
+---
+
+Open to working with clients and teams worldwide.
